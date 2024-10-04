@@ -3,6 +3,6 @@
 #include <stdlib.h>
 
 int main(){
-printf("Hello world\n");
+printf("Bonjour\n au Revoir\n");
 return 0; 
 }
