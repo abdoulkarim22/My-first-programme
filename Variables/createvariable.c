@@ -6,9 +6,13 @@
 int main(int argc , char*argv[]){
 
 
-int nombreDeVies = 5, niveau = 1;
+int age = 0;
 
-printf("Vous avez %d vies et vous etes au niveau n° %d \n", nombreDeVies, niveau);
+printf("quel age avez vous ?");
+
+scanf("%d",&age);
+
+printf("ah ! vous avez donc %d ans ! \n\n", age);
 
 return 0;
 }
